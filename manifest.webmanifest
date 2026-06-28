@@ -1,0 +1,17 @@
+{
+  "name": "空き時間メーカー",
+  "short_name": "空き時間",
+  "description": "Googleカレンダーから空き時間を整理して画像で共有",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#002244",
+  "theme_color": "#002244",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%23002244'/%3E%3Crect x='66' y='40' width='8' height='24' rx='4' fill='%23b0b7bc'/%3E%3Crect x='118' y='40' width='8' height='24' rx='4' fill='%23b0b7bc'/%3E%3Crect x='38' y='52' width='116' height='104' rx='14' fill='%23ffffff'/%3E%3Cpath d='M38 66 a14 14 0 0 1 14 -14 h88 a14 14 0 0 1 14 14 v8 H38 Z' fill='%23c60c30'/%3E%3Cpath d='M96 54 L97.9 59.4 L103.6 59.5 L99 63 L100.7 68.5 L96 65.2 L91.3 68.5 L93 63 L88.4 59.5 L94.1 59.4 Z' fill='%23ffffff'/%3E%3Crect x='54' y='92' width='22' height='16' rx='4' fill='%23b0b7bc'/%3E%3Crect x='85' y='92' width='22' height='16' rx='4' fill='%23b0b7bc'/%3E%3Crect x='116' y='92' width='22' height='16' rx='4' fill='%23c60c30'/%3E%3Crect x='54' y='118' width='22' height='16' rx='4' fill='%23b0b7bc'/%3E%3Crect x='85' y='118' width='22' height='16' rx='4' fill='%23b0b7bc'/%3E%3Crect x='116' y='118' width='22' height='16' rx='4' fill='%23b0b7bc'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
